@@ -6,7 +6,7 @@ public class h {
         factor(6);
          System.out.println(Arrays.toString(factor(5)));
          System.out.println(factor(78));
-        // System.out.println(list);
+        System.out.println(list);
      
         // Scanner scanner = new Scanner(System.in);
         
